@@ -1,0 +1,15 @@
+{
+    "name": "angelomarafelli/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Angelo Marafelli",
+            "email": "angelomarafelli@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
